@@ -1,0 +1,4 @@
+- 👋 Ola meu nome é @JulioFranciscoNetoReichembak
+- 👍 Meu email de contato é @julio.reichembak@escola.pr.gov.br
+- 👀 Eu estou interessado em aprender novas linguagens
+- 🌱 Eu estou aprendendo a programar  recentemente a linguagem javaScript e Scratch
